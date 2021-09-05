@@ -16,6 +16,22 @@ print("Hello world !!")
 - 🌍 I'm currently working as an Infrastructure Architect at TerraLAB, a college laboratory that offers training for students to be prepared to work at tech companies.
 - 🧠 And i'm an Infrastructure Intern at Stilingue AI too.
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="guit-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="guit-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="guit-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="guit-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="guit-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="guit-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="guit-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="guit-amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="guit-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="guit-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="guit-terraform" height="30" width="30" src="https://www.goetas.com/img/services/terraform.png">
+  <img align="center" alt="guit-serverless" height="30" width="30" src="https://assets-global.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png">
+  
+</div>
+<br>
 <div>
   <a href="https://github.com/guitrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitrocha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
