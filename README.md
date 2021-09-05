@@ -1,7 +1,11 @@
-### Hi there 👋
 
+<img align="right" height="50em" src="https://github.com/guitrocha/guitrocha/blob/main/gitcloud.gif"/>
 <div>
-  <a href="https://github.com/rafaballerini">
+  <h1>Welcome to my github! 👋</h1>
+  
+</div>
+<div>
+  <a href="https://github.com/guitrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitrocha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitrocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
