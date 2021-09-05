@@ -2,7 +2,6 @@
 <img align="right" height="50em" src="https://github.com/guitrocha/guitrocha/blob/main/pics/gitcloud.gif"/>
 <div>
   <h1>Welcome to my github! 👋</h1>
-  
 </div>
 
 [![Linkedin: guitrocha](https://img.shields.io/badge/-guitrocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guitrocha/)](https://www.linkedin.com/in/guitrocha/)
@@ -11,6 +10,11 @@
 ```python
 print("Hello world !!")
 ```
+
+- 🎓 I'm currently majoring in computer science degree at the Universidade Federal de Ouro Preto - UFOP.
+- 👨‍💻 My programming journey started in 2016.
+- 🌍 I'm currently working as an Infrastructure Architect at TerraLAB, a college laboratory that offers training for students to be prepared to work at tech companies.
+- 🧠 And i'm an Infrastructure Intern at Stilingue AI too.
 
 <div>
   <a href="https://github.com/guitrocha">
