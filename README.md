@@ -1,5 +1,5 @@
 
-<img align="right" height="50em" src="https://github.com/guitrocha/guitrocha/blob/main/gitcloud.gif"/>
+<img align="right" height="50em" src="https://github.com/guitrocha/guitrocha/blob/main/pics/gitcloud.gif"/>
 <div>
   <h1>Welcome to my github! 👋</h1>
   
