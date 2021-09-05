@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183 241.56" width="183" height="241.55999755859375"><defs><style>.cls-1{fill:#ffb700;}.cls-2{fill:#bf8900;opacity:0.7;}.cls-3{fill:#fff;}</style></defs><g id="Camada_2" data-name="Camada 2"><g id="Camada_1-2" data-name="Camada 1"><path class="cls-1 logo-svg-elem-1" d="M163.48,87.84V204.07A37.5,37.5,0,0,1,126,241.56H47.25A37.5,37.5,0,0,1,9.76,204.07V185.44h88.4a9.2,9.2,0,0,0,9.2-9.2V87.84Z"></path><path class="cls-2 logo-svg-elem-2" d="M163.48,80.52v7.34l0,0c-.52,36.75,0,63.44-56.1,73.2V80.52Z"></path><path class="cls-3 logo-svg-elem-3" d="M131.76,80.52V22h31.72V0H83l0,0c-.42,0-.83,0-1.25,0a81.74,81.74,0,0,0,0,163.48c44.74,0,81.07-26.2,81.71-70.79l0,0V80.52Z"></path><rect class="cls-1 logo-svg-elem-4" x="139.08" y="29.28" width="43.92" height="43.92"></rect></g></g></svg>
+
 <!--
 **guitrocha/guitrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
