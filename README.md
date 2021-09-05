@@ -4,6 +4,10 @@
   <h1>Welcome to my github! 👋</h1>
   
 </div>
+
+[![Linkedin: guitrocha](https://img.shields.io/badge/-guitrocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guitrocha/)](https://www.linkedin.com/in/guitrocha/)
+[![GitHub Guilherme Rocha](https://img.shields.io/github/followers/guitrocha?label=follow&style=social)](https://github.com/guitrocha)
+
 <div>
   <a href="https://github.com/guitrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitrocha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
