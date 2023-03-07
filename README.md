@@ -13,8 +13,7 @@ print("Hello world !!")
 
 - 🎓 I'm currently majoring in computer science degree at the Universidade Federal de Ouro Preto - UFOP.
 - 👨‍💻 My programming journey started in 2016.
-- 🌍 I'm currently working as an Infrastructure Architect at TerraLAB, a college laboratory that offers training for students to be prepared to work at tech companies.
-- 🧠 And i'm an Infrastructure Intern at Stilingue AI too.
+- 🧠 I'm an Infosec Analyst
 
 <div style="display: inline_block"><br>
   <img align="center" alt="guit-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
