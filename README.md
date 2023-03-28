@@ -1,56 +1,61 @@
 
-<img align="right" height="50em" src="https://github.com/guitrocha/guitrocha/blob/main/pics/gitcloud.gif"/>
-<div>
-  <h1>Welcome to my github! 👋</h1>
-</div>
 
-[![Linkedin: guitrocha](https://img.shields.io/badge/-guitrocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guitrocha/)](https://www.linkedin.com/in/guitrocha/)
-[![GitHub Guilherme Rocha](https://img.shields.io/github/followers/guitrocha?label=follow&style=social)](https://github.com/guitrocha)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Let's+automate+some+tasks%3F" alt="Typing SVG" />
+  <br/>
+  <img width="300" src="https://github.com/guitrocha/guitrocha/blob/main/pics/code.gif?raw=true"/>
+</p>
 
+---
+### 🌎 Welcome to my github!
 ```python
 print("Hello world !!")
 ```
 
-- 🎓 I'm currently majoring in computer science degree at the Universidade Federal de Ouro Preto - UFOP.
-- 👨‍💻 My programming journey started in 2016.
-- 🧠 I'm an Infosec Analyst
+[![GitHub Guilherme Rocha](https://img.shields.io/github/followers/guitrocha?label=follow&style=social)](https://github.com/guitrocha)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="guit-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="guit-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="guit-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="guit-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="guit-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="guit-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="guit-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="guit-amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="guit-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="guit-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="guit-terraform" height="30" width="30" src="https://www.goetas.com/img/services/terraform.png">
-  <img align="center" alt="guit-serverless" height="30" width="30" src="https://assets-global.website-files.com/60acbb950c4d66d0ab3e2007/60d841cfd24a7264a80c75fc_Serverless_logo.png">
-  
-</div>
-<br>
-<div>
-  <a href="https://github.com/guitrocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guitrocha&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitrocha&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
- 
+---
+### 🪪 About me
+- 🇧🇷 My name is **Guilherme Rocha**, i was born and live in **Brazil**.
+- 🛡️ I'm an **IT/Infosec** professional with **experience** in:
+    - Automations
+    - IAM
+    - Platform administration
+    - Devops.
+- 🧰 My **skills** include:
+    - Development and implementation of automated solutions with python
+    - Provisioning and hardening of operational systems with ansible
+    - Identity and access management
+    - Application of information security best practices and configuration/management of enterprise platforms and tools such as Google Workspace, Azure AD, Slack, etc. 
+- 🧠 I learn very fast with **practice**, I am **creative** and **collaborative**, always looking for new challenges and opportunities to **learn and grow**.
 
+---
+### Languages, tools, etc ...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  
-<!--
-**guitrocha/guitrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
